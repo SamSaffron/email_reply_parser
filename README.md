@@ -1,3 +1,11 @@
+# DEPRECATED
+
+This library is deprecated. Please see instead:
+
+https://github.com/discourse/email_reply_trimmer
+
+----------
+
 # Email Reply Parser
 
 [![Build Status](https://secure.travis-ci.org/lawrencepit/email_reply_parser.png?branch=master)](http://travis-ci.org/lawrencepit/email_reply_parser)
